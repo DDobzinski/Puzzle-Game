@@ -1,0 +1,8 @@
+black s 2 1 2
+black s 2 0 0
+black t 3 0 1
+black t 2 0 4
+black t 3 3 1
+black s 3 2 5
+black s 2 4 4
+black t 3 5 0
